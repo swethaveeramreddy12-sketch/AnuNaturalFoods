@@ -182,7 +182,7 @@ const OrderDetails = () => {
 
           {/* OPTIONAL WhatsApp Link */}
           <a
-            href="https://wa.me/8688408943"
+            href="https://wa.me/9642333337"
             target="_blank"
             className="mt-2 inline-block text-primary font-semibold underline"
           >

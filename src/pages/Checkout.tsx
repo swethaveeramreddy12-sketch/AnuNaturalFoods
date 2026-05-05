@@ -108,7 +108,7 @@ const Checkout = () => {
       if (error) throw error;
       if (!data?.merchantOrderId) throw new Error("Order could not be placed");
 
-      const phoneNumber = "8688408943"; // your WhatsApp number (no +)
+      const phoneNumber = "9642333337"; // your WhatsApp number (no +)
 
       const orderDetails = items
         .map((i) => {
